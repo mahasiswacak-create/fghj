@@ -1,0 +1,6 @@
+{
+  "name": "Surat Pemanggilan Resmi: Nongkrong Darurat",
+  "description": "Aplikasi formulir surat pemanggilan resmi nongkrong darurat dengan tema dark mode intelijen, tombol penghindar, dan integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
